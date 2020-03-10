@@ -1,6 +1,6 @@
-# playgroung
+# Flutter Binoculars Splash Screen Animation
 
-A new Flutter project.
+I made this animation for Flutter apps using [Rive](https://rive.app/)
 
 ## Getting Started
 
