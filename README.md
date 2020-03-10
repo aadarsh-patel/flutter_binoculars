@@ -2,15 +2,15 @@
 
 I made this animation for Flutter apps using [Rive](https://rive.app/)
 
-## Getting Started
+![](https://github.com/aadarsh-patel/flutter_binoculars/blob/master/assets/readme%20files/binoculars.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Circular Rotating Border animation.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](https://github.com/aadarsh-patel/flutter_binoculars/blob/master/assets/readme%20files/circular_rotating_border.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Flare files for both the animations are in `assets` folder
+ 
+ 
+ 
+ 
